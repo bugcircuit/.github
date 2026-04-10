@@ -1,6 +1,14 @@
-# BugCircuit
+<div align="center">
+  <h1>
+    🐛 <span style="background: linear-gradient(90deg, #00FFAA, #00CCFF); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+      BugCircuit
+    </span>
+  </h1>
+</div>
 
-🚀 **Real-time crash and bug monitoring** with 🤖 **AI-powered detection** and 🔧 **auto-fixing**
+<p align="center">
+  🚀 Real-time crash and bug monitoring with 🤖 AI-powered detection and 🔧 auto-fixing
+</p>
 
 <br>
 
