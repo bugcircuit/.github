@@ -1,3 +1,7 @@
+🚀 **Real-time crash and bug monitoring** with 🤖 **AI-powered detection** and 🔧 **auto-fixing**
+
+<br>
+
 <div align="center">
   <img src="https://github.com/bugcircuit/.github/blob/main/profile/banner.jpg" 
        alt="BugCircuit Banner" 
@@ -6,9 +10,3 @@
 </div>
 
 <br><br>
-
-# BugCircuit
-
-🚀 **Real-time crash and bug monitoring** with 🤖 **AI-powered detection** and 🔧 **auto-fixing**
-
-<br>
