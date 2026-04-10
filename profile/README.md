@@ -6,3 +6,9 @@
 </div>
 
 <br><br>
+
+# BugCircuit
+
+🚀 **Real-time crash and bug monitoring** with 🤖 **AI-powered detection** and 🔧 **auto-fixing**
+
+<br>
