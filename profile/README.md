@@ -1,3 +1,5 @@
+# BugCircuit
+
 🚀 **Real-time crash and bug monitoring** with 🤖 **AI-powered detection** and 🔧 **auto-fixing**
 
 <br>
@@ -8,5 +10,3 @@
        width="100%" 
        style="border-radius: 12px; max-width: 1200px;">
 </div>
-
-<br><br>
